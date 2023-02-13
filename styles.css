@@ -2,9 +2,13 @@
 
 body {
     font-size: 20px;
-    color: blue;
+    color: rgb(162, 241, 33);
+    text-align: center;
 }
 
 div {
-    background-color: grey;
+    background-color: rgb(32, 31, 31);
+}
+a {
+    background-color: darkgreen;
 }
